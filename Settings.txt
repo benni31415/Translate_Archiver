@@ -1,0 +1,1 @@
+DeepL-Auth-Key: %%%[authentication_key]%%%
